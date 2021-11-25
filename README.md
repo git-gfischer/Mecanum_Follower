@@ -4,7 +4,7 @@ The objective of this project is to make a mecanum robot follow a person using d
 techniques. The proposed system uses a yoloV3 object detection model with SORT algorithm for tracking, by Cong Ma. A Kinect camera is used in order for the  robot to estimate the distance between itself and the human. The depth distance and distance between the centroid and the image center point is then measured and applied to a  simple control law to drive the robot motors.
 
 
-<img src="images/system/robot.jpeg"
+<img src="system/images/robot.jpeg"
 width="773" height="489" /></a>
 <!--img src="images/MOT20-01_CYTi.jpg" 
 width="960" height="540" /></a!-->
